@@ -1,0 +1,6 @@
+nnunetv2
+matplotlib
+nibabel
+numpy
+torch
+shutil
